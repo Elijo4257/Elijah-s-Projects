@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan 18 19:52:25 2023
-
-@author: hboateng
+@author: Elijah Pile
 """
 from skimage import color
 from numpy import linalg as la 
